@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b91e984598b43a43a40bcff17d82f9b
+timeCreated: 1485051153
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deathParticleBluePrefab: {fileID: 1004232339137560, guid: 4079e110767f327409142b88737f3e11,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
